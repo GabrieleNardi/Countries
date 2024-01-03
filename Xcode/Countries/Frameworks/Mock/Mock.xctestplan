@@ -1,0 +1,30 @@
+{
+  "configurations" : [
+    {
+      "id" : "B7270456-59FB-4316-8A0E-35B9CE7449FF",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "skippedTests" : [
+        "MockTests\/test_allCountriesWithDetails_decode_performance()",
+        "MockTests\/test_allCountries_decode_performance()",
+        "MockTests\/test_allCountryDetails_decode_performance()",
+        "MockTests\/test_allPexelsImage_decode_performance()"
+      ],
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "MockTests",
+        "name" : "MockTests"
+      }
+    }
+  ],
+  "version" : 1
+}

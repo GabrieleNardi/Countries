@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "415D4F3B-B21A-4FBC-97AF-385DFFFD97B3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41FDC46D-6E0C-43A6-9741-E6F4F58D9148"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Countries/Scenes/CountryList/CountryCollectionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "load()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "41FDC46D-6E0C-43A6-9741-E6F4F58D9148 - 992e7fe33bfa8127"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Error) -&gt; Combine.Just&lt;CountriesDebug.ViewState&lt;Swift.Array&lt;DataModel.Country&gt;&gt;&gt; in CountriesDebug.CountryCollectionViewModel.load() -&gt; ()"
+                  moduleName = "Countries"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gabrielenardi/Developer/Local/ZEXTRAS/Countries/Countries/Scenes/CountryList/CountryCollectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "41FDC46D-6E0C-43A6-9741-E6F4F58D9148 - 645cda2d7f351c59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; Swift.Array&lt;__C.NSManagedObject&gt; in closure #2 (Swift.Error) -&gt; Combine.Just&lt;CountriesDebug.ViewState&lt;Swift.Array&lt;DataModel.Country&gt;&gt;&gt; in CountriesDebug.CountryCollectionViewModel.load() -&gt; ()"
+                  moduleName = "Countries"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gabrielenardi/Developer/Local/ZEXTRAS/Countries/Countries/Scenes/CountryList/CountryCollectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "41FDC46D-6E0C-43A6-9741-E6F4F58D9148 - f84534fd89510ad5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; Swift.Array&lt;__C.NSManagedObject&gt; in closure #2 (Swift.Error) -&gt; Combine.Just&lt;CountriesDebug.ViewState&lt;Swift.Array&lt;DataModel.Country&gt;&gt;&gt; in CountriesDebug.CountryCollectionViewModel.load() -&gt; ()"
+                  moduleName = "Countries"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gabrielenardi/Developer/Local/ZEXTRAS/Countries/Countries/Scenes/CountryList/CountryCollectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "41FDC46D-6E0C-43A6-9741-E6F4F58D9148 - 992e7fe33bfa8127"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Error) -&gt; Combine.Just&lt;CountriesDebug.ViewState&lt;Swift.Array&lt;DataModel.Country&gt;&gt;&gt; in CountriesDebug.CountryCollectionViewModel.load() -&gt; ()"
+                  moduleName = "Countries"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gabrielenardi/Developer/Local/ZEXTRAS/Countries/Countries/Scenes/CountryList/CountryCollectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "41FDC46D-6E0C-43A6-9741-E6F4F58D9148 - 37b2afbf73bb413e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Error) -&gt; Combine.Just&lt;Countries.ViewState&lt;Swift.Array&lt;DataModel.Country&gt;&gt;&gt; in Countries.CountryCollectionViewModel.load() -&gt; ()"
+                  moduleName = "Countries"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gabrielenardi/Developer/Local/ZEXTRAS/Countries/Countries/Scenes/CountryList/CountryCollectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "41FDC46D-6E0C-43A6-9741-E6F4F58D9148 - 37b2afbf73bb411d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Error) -&gt; Combine.Just&lt;Countries.ViewState&lt;Swift.Array&lt;DataModel.Country&gt;&gt;&gt; in Countries.CountryCollectionViewModel.load() -&gt; ()"
+                  moduleName = "Countries"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gabrielenardi/Developer/Local/ZEXTRAS/Countries/Countries/Scenes/CountryList/CountryCollectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "41FDC46D-6E0C-43A6-9741-E6F4F58D9148 - b956ca393308313f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Error) -&gt; Combine.Just&lt;CountriesTests.ViewState&lt;Swift.Array&lt;DataModel.Country&gt;&gt;&gt; in CountriesTests.CountryCollectionViewModel.load() -&gt; ()"
+                  moduleName = "CountriesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gabrielenardi/Developer/Local/ZEXTRAS/Countries/Countries/Scenes/CountryList/CountryCollectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "41FDC46D-6E0C-43A6-9741-E6F4F58D9148 - 36b9a97b4e405480"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Error) -&gt; Combine.Just&lt;Countries.ViewState&lt;Swift.Array&lt;DataModel.Country&gt;&gt;&gt; in Countries.CountryCollectionViewModel.load() -&gt; ()"
+                  moduleName = "Countries"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gabrielenardi/Developer/Local/ZEXTRAS%20Skill%20Test%20Nardi%20Gabriele/Xcode/Countries/Countries/Scenes/CountryList/CountryCollectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "41FDC46D-6E0C-43A6-9741-E6F4F58D9148 - b85dccfd0ef324a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Error) -&gt; Combine.Just&lt;CountriesTests.ViewState&lt;Swift.Array&lt;DataModel.Country&gt;&gt;&gt; in CountriesTests.CountryCollectionViewModel.load() -&gt; ()"
+                  moduleName = "CountriesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gabrielenardi/Developer/Local/ZEXTRAS%20Skill%20Test%20Nardi%20Gabriele/Xcode/Countries/Countries/Scenes/CountryList/CountryCollectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

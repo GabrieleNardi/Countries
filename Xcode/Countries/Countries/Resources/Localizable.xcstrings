@@ -1,0 +1,246 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "An error has occured, try again please" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si è verificato un errore, prova di nuovo"
+          }
+        }
+      }
+    },
+    "Area" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Area"
+          }
+        }
+      }
+    },
+    "Attention" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attenzione"
+          }
+        }
+      }
+    },
+    "By this application you will be able to obtain information about countries.\n\nYou could filter them for continent or languages, or, you may want to access to detailed information about a country, such as the capital, the population, and so on.\n\nOnce downloaded, the information about countries will be stored in your iPhone, and you can consult them even if you are offline.\n\nENJOY!" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con questa applicazione potrai ottenere informazioni sui paesi del mondo.\n\nPotrai filtrarli per continente o lingua, oppure, potresti volere accedere a informazioni più dettagliate come la capitale, la popolazione, e così via.\n\nUna volta scaricate, le informazioni riguardanti i paesi verranno salvate nel tuo iPhone, e potrai consultarle anche se sarai offline.\n\nBUON DIVERTIMENTO!"
+          }
+        }
+      }
+    },
+    "Capital" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Capitale"
+          }
+        }
+      }
+    },
+    "Continue" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continua"
+          }
+        }
+      }
+    },
+    "Coordinates" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coordinate"
+          }
+        }
+      }
+    },
+    "Countries" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paesi"
+          }
+        }
+      }
+    },
+    "Country" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paese"
+          }
+        }
+      }
+    },
+    "Currency" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valuta"
+          }
+        }
+      }
+    },
+    "degree" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "gradi"
+          }
+        }
+      }
+    },
+    "Filter by continent" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtra per continente"
+          }
+        }
+      }
+    },
+    "Filter by language" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtra per lingua"
+          }
+        }
+      }
+    },
+    "Filter:" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtro:"
+          }
+        }
+      }
+    },
+    "Infos" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informazioni"
+          }
+        }
+      }
+    },
+    "Maps" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mappe"
+          }
+        }
+      }
+    },
+    "people" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "persone"
+          }
+        }
+      }
+    },
+    "Photos from: %@" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Foto da: %@"
+          }
+        }
+      }
+    },
+    "Population" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Popolazione"
+          }
+        }
+      }
+    },
+    "There are no countries according your search" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non ci sono paesi che rispecchiano la tua ricerca"
+          }
+        }
+      }
+    },
+    "There was an error retrieving data from the database, try again please" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "C'è stato un errore nel recupero dei dati dal database, riprova"
+          }
+        }
+      }
+    },
+    "Timezones" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fusi orari"
+          }
+        }
+      }
+    },
+    "Translations" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Traduzioni"
+          }
+        }
+      }
+    },
+    "Welcome" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benvenuto"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

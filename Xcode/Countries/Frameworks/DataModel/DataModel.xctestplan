@@ -1,0 +1,31 @@
+{
+  "configurations" : [
+    {
+      "id" : "D6F0C0BB-7D78-4353-9BFC-153805829D73",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "skippedTests" : [
+        "CountryDetailTests\/test_decode_performance()",
+        "CountryTests\/test_decode_performance()",
+        "FlagTests\/test_decode_performance()",
+        "NameTests\/test_decode_performance()",
+        "PexelsImageTests\/test_decode_performance()"
+      ],
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "DataModelTests",
+        "name" : "DataModelTests"
+      }
+    }
+  ],
+  "version" : 1
+}

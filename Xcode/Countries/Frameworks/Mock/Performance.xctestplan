@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "FD3170B6-EAC8-494F-8794-7668A4FCB0C1",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "skippedTests" : [
+        "MockTests\/test_mock_countryDetail_notEmpty()",
+        "MockTests\/test_mock_country_notEmpty()",
+        "MockTests\/test_mock_pexelsImage_notEmpty()"
+      ],
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "MockTests",
+        "name" : "MockTests"
+      }
+    }
+  ],
+  "version" : 1
+}
