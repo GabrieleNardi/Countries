@@ -5,7 +5,6 @@
 //  Created by Gabriele Nardi   on 28/10/25.
 //
 
-
 import Testing
 import MapKit
 @testable import Commons
