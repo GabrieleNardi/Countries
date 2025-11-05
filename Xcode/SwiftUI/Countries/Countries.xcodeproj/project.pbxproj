@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B663DB932EB2AE190034F66D /* DataModel in Frameworks */ = {isa = PBXBuildFile; productRef = B663DB922EB2AE190034F66D /* DataModel */; };
 		B6E2300D2EB1751000E5401F /* Commons in Frameworks */ = {isa = PBXBuildFile; productRef = B6E2300C2EB1751000E5401F /* Commons */; };
 /* End PBXBuildFile section */
 
@@ -56,6 +57,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B663DB932EB2AE190034F66D /* DataModel in Frameworks */,
 				B6E2300D2EB1751000E5401F /* Commons in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -118,6 +120,7 @@
 			name = Countries;
 			packageProductDependencies = (
 				B6E2300C2EB1751000E5401F /* Commons */,
+				B663DB922EB2AE190034F66D /* DataModel */,
 			);
 			productName = Countries;
 			productReference = B65FD1482E9D744200CD4D2B /* Countries.app */;
@@ -203,6 +206,7 @@
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
 				B6E2300B2EB1751000E5401F /* XCLocalSwiftPackageReference "Frameworks/Commons" */,
+				B663DB912EB2AE190034F66D /* XCLocalSwiftPackageReference "Frameworks/DataModel" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = B65FD1492E9D744200CD4D2B /* Products */;
@@ -583,6 +587,10 @@
 /* End XCConfigurationList section */
 
 /* Begin XCLocalSwiftPackageReference section */
+		B663DB912EB2AE190034F66D /* XCLocalSwiftPackageReference "Frameworks/DataModel" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = Frameworks/DataModel;
+		};
 		B6E2300B2EB1751000E5401F /* XCLocalSwiftPackageReference "Frameworks/Commons" */ = {
 			isa = XCLocalSwiftPackageReference;
 			relativePath = Frameworks/Commons;
@@ -590,6 +598,10 @@
 /* End XCLocalSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
+		B663DB922EB2AE190034F66D /* DataModel */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = DataModel;
+		};
 		B6E2300C2EB1751000E5401F /* Commons */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = Commons;
